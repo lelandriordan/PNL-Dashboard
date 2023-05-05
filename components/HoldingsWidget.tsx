@@ -1,7 +1,7 @@
 import clsx from "clsx"
 import { createColumnHelper, ColumnDef, CellContext } from "@tanstack/react-table"
 import { EllipsisVerticalIcon } from "@heroicons/react/24/outline"
-import { Holding } from "@/app/types/holding"
+import { Holding } from "@/types/holding"
 import useHoldings from "@/hooks/useHoldings"
 import DataTable from "@/components/ds/DataTable"
 import Label from "@/components/ds/Label"

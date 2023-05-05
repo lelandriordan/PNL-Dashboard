@@ -9,7 +9,6 @@ export default function useNotifications() {
   const { data, error, isLoading } = useSWR('/api/notifications', fetcher, { 
     refreshInterval: 1000,
     onSuccess: (newData, key, config) => {
-      console.log(newData)
       //
       // TODO: Send the notification for new updates
       // sendNotification('Example Title', {body: 'test'})

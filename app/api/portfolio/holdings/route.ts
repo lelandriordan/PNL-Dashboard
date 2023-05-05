@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server'
 import path from 'path'
 import fsPromises from 'fs/promises';
-import { Holding } from '@/app/types/holding';
+import { Holding } from '@/types/holding';
 
 export async function GET(request: Request) {
   const jsonDirectory = path.join(process.cwd(), 'json')
