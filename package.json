@@ -9,17 +9,26 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "latest",
+    "@heroicons/react": "^2.0.17",
+    "@imbios/next-pwa": "^1.1.1",
+    "@tanstack/react-table": "^8.9.1",
     "@types/node": "18.16.3",
     "@types/react": "18.2.0",
     "@types/react-dom": "18.2.1",
     "autoprefixer": "10.4.14",
+    "clsx": "^1.2.1",
+    "dequal": "^2.0.3",
     "eslint": "8.39.0",
     "eslint-config-next": "13.3.4",
     "next": "13.3.4",
     "postcss": "8.4.23",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "recharts": "^2.5.0",
+    "swr": "^2.1.5",
     "tailwindcss": "3.3.2",
     "typescript": "5.0.4"
-  }
+  },
+  "packageManager": "yarn@3.5.1"
 }

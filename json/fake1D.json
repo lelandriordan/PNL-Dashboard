@@ -1,0 +1,502 @@
+[
+	{
+		"return": "0.59",
+		"time": "2:00 AM",
+		"zero": 0
+	},
+	{
+		"return": -0.46,
+		"time": "8:38 AM",
+		"zero": 0
+	},
+	{
+		"return": 3.61,
+		"time": "1:02 PM",
+		"zero": 0
+	},
+	{
+		"return": 7.11,
+		"time": "1:09 AM",
+		"zero": 0
+	},
+	{
+		"return": 3.25,
+		"time": "5:57 AM",
+		"zero": 0
+	},
+	{
+		"return": 3.94,
+		"time": "5:32 AM",
+		"zero": 0
+	},
+	{
+		"return": "0.78",
+		"time": "9:34 AM",
+		"zero": 0
+	},
+	{
+		"return": -2.04,
+		"time": "6:21 PM",
+		"zero": 0
+	},
+	{
+		"return": 4.29,
+		"time": "7:44 AM",
+		"zero": 0
+	},
+	{
+		"return": 4.85,
+		"time": "12:28 AM",
+		"zero": 0
+	},
+	{
+		"return": -0.44,
+		"time": "10:32 AM",
+		"zero": 0
+	},
+	{
+		"return": -2.34,
+		"time": "6:28 PM",
+		"zero": 0
+	},
+	{
+		"return": -1.45,
+		"time": "10:31 AM",
+		"zero": 0
+	},
+	{
+		"return": -3.73,
+		"time": "8:10 AM",
+		"zero": 0
+	},
+	{
+		"return": "0.66",
+		"time": "1:36 PM",
+		"zero": 0
+	},
+	{
+		"return": 5.73,
+		"time": "8:11 PM",
+		"zero": 0
+	},
+	{
+		"return": 5.77,
+		"time": "12:59 AM",
+		"zero": 0
+	},
+	{
+		"return": 3.77,
+		"time": "4:28 AM",
+		"zero": 0
+	},
+	{
+		"return": -0.24,
+		"time": "9:36 PM",
+		"zero": 0
+	},
+	{
+		"return": -6.06,
+		"time": "1:34 AM",
+		"zero": 0
+	},
+	{
+		"return": 3.44,
+		"time": "8:04 PM",
+		"zero": 0
+	},
+	{
+		"return": "0.79",
+		"time": "5:43 PM",
+		"zero": 0
+	},
+	{
+		"return": -3.24,
+		"time": "5:41 AM",
+		"zero": 0
+	},
+	{
+		"return": 2.72,
+		"time": "3:32 PM",
+		"zero": 0
+	},
+	{
+		"return": -3.87,
+		"time": "6:26 PM",
+		"zero": 0
+	},
+	{
+		"return": -3.99,
+		"time": "3:57 PM",
+		"zero": 0
+	},
+	{
+		"return": 1.19,
+		"time": "10:49 PM",
+		"zero": 0
+	},
+	{
+		"return": 1.46,
+		"time": "9:06 PM",
+		"zero": 0
+	},
+	{
+		"return": 6.12,
+		"time": "2:25 PM",
+		"zero": 0
+	},
+	{
+		"return": 5.19,
+		"time": "2:53 AM",
+		"zero": 0
+	},
+	{
+		"return": "0.66",
+		"time": "5:44 AM",
+		"zero": 0
+	},
+	{
+		"return": -0.18,
+		"time": "1:19 AM",
+		"zero": 0
+	},
+	{
+		"return": 2.23,
+		"time": "12:06 AM",
+		"zero": 0
+	},
+	{
+		"return": -0.50,
+		"time": "10:19 PM",
+		"zero": 0
+	},
+	{
+		"return": -0.29,
+		"time": "9:49 AM",
+		"zero": 0
+	},
+	{
+		"return": 4.38,
+		"time": "5:21 PM",
+		"zero": 0
+	},
+	{
+		"return": "0.43",
+		"time": "6:33 PM",
+		"zero": 0
+	},
+	{
+		"return": -5.18,
+		"time": "5:05 AM",
+		"zero": 0
+	},
+	{
+		"return": 1.31,
+		"time": "11:03 AM",
+		"zero": 0
+	},
+	{
+		"return": 1.21,
+		"time": "8:37 AM",
+		"zero": 0
+	},
+	{
+		"return": "0.82",
+		"time": "1:04 AM",
+		"zero": 0
+	},
+	{
+		"return": -4.72,
+		"time": "10:44 AM",
+		"zero": 0
+	},
+	{
+		"return": "0.19",
+		"time": "1:40 PM",
+		"zero": 0
+	},
+	{
+		"return": -3.24,
+		"time": "10:57 AM",
+		"zero": 0
+	},
+	{
+		"return": 2.81,
+		"time": "12:56 AM",
+		"zero": 0
+	},
+	{
+		"return": 2.12,
+		"time": "6:36 PM",
+		"zero": 0
+	},
+	{
+		"return": -0.60,
+		"time": "2:53 AM",
+		"zero": 0
+	},
+	{
+		"return": 1.94,
+		"time": "11:39 PM",
+		"zero": 0
+	},
+	{
+		"return": "0.52",
+		"time": "12:00 PM",
+		"zero": 0
+	},
+	{
+		"return": 8.06,
+		"time": "5:49 PM",
+		"zero": 0
+	},
+	{
+		"return": 4.46,
+		"time": "9:55 PM",
+		"zero": 0
+	},
+	{
+		"return": -4.41,
+		"time": "9:00 AM",
+		"zero": 0
+	},
+	{
+		"return": -0.45,
+		"time": "8:37 PM",
+		"zero": 0
+	},
+	{
+		"return": 3.22,
+		"time": "2:28 PM",
+		"zero": 0
+	},
+	{
+		"return": -0.87,
+		"time": "11:29 PM",
+		"zero": 0
+	},
+	{
+		"return": -4.24,
+		"time": "6:13 PM",
+		"zero": 0
+	},
+	{
+		"return": "0.02",
+		"time": "9:54 AM",
+		"zero": 0
+	},
+	{
+		"return": "0.71",
+		"time": "7:11 PM",
+		"zero": 0
+	},
+	{
+		"return": 2.40,
+		"time": "9:49 PM",
+		"zero": 0
+	},
+	{
+		"return": 1.42,
+		"time": "12:50 PM",
+		"zero": 0
+	},
+	{
+		"return": 1.86,
+		"time": "3:16 AM",
+		"zero": 0
+	},
+	{
+		"return": -1.57,
+		"time": "4:42 AM",
+		"zero": 0
+	},
+	{
+		"return": "0.46",
+		"time": "1:49 PM",
+		"zero": 0
+	},
+	{
+		"return": 6.37,
+		"time": "7:41 AM",
+		"zero": 0
+	},
+	{
+		"return": -0.91,
+		"time": "1:50 PM",
+		"zero": 0
+	},
+	{
+		"return": 4.58,
+		"time": "6:07 PM",
+		"zero": 0
+	},
+	{
+		"return": -3.68,
+		"time": "9:54 AM",
+		"zero": 0
+	},
+	{
+		"return": 7.12,
+		"time": "2:01 PM",
+		"zero": 0
+	},
+	{
+		"return": "0.44",
+		"time": "11:03 PM",
+		"zero": 0
+	},
+	{
+		"return": -7.59,
+		"time": "7:14 PM",
+		"zero": 0
+	},
+	{
+		"return": -2.16,
+		"time": "2:24 PM",
+		"zero": 0
+	},
+	{
+		"return": -2.96,
+		"time": "6:50 AM",
+		"zero": 0
+	},
+	{
+		"return": 4.39,
+		"time": "7:18 PM",
+		"zero": 0
+	},
+	{
+		"return": -1.40,
+		"time": "10:25 PM",
+		"zero": 0
+	},
+	{
+		"return": 2.67,
+		"time": "11:33 AM",
+		"zero": 0
+	},
+	{
+		"return": 2.28,
+		"time": "4:45 AM",
+		"zero": 0
+	},
+	{
+		"return": 8.87,
+		"time": "1:15 AM",
+		"zero": 0
+	},
+	{
+		"return": -1.10,
+		"time": "4:41 AM",
+		"zero": 0
+	},
+	{
+		"return": 1.41,
+		"time": "2:16 AM",
+		"zero": 0
+	},
+	{
+		"return": 2.83,
+		"time": "6:00 AM",
+		"zero": 0
+	},
+	{
+		"return": "0.74",
+		"time": "6:11 AM",
+		"zero": 0
+	},
+	{
+		"return": -4.49,
+		"time": "1:26 AM",
+		"zero": 0
+	},
+	{
+		"return": -2.33,
+		"time": "10:16 AM",
+		"zero": 0
+	},
+	{
+		"return": 4.70,
+		"time": "10:12 AM",
+		"zero": 0
+	},
+	{
+		"return": 4.77,
+		"time": "12:27 AM",
+		"zero": 0
+	},
+	{
+		"return": -3.84,
+		"time": "12:06 AM",
+		"zero": 0
+	},
+	{
+		"return": -1.72,
+		"time": "5:22 AM",
+		"zero": 0
+	},
+	{
+		"return": 3.72,
+		"time": "5:57 AM",
+		"zero": 0
+	},
+	{
+		"return": -3.31,
+		"time": "2:00 PM",
+		"zero": 0
+	},
+	{
+		"return": -1.25,
+		"time": "2:41 AM",
+		"zero": 0
+	},
+	{
+		"return": -3.15,
+		"time": "1:53 AM",
+		"zero": 0
+	},
+	{
+		"return": 1.90,
+		"time": "12:45 PM",
+		"zero": 0
+	},
+	{
+		"return": -2.18,
+		"time": "10:09 AM",
+		"zero": 0
+	},
+	{
+		"return": -0.23,
+		"time": "2:57 PM",
+		"zero": 0
+	},
+	{
+		"return": 3.11,
+		"time": "3:13 AM",
+		"zero": 0
+	},
+	{
+		"return": -2.49,
+		"time": "5:37 PM",
+		"zero": 0
+	},
+	{
+		"return": "0.97",
+		"time": "2:33 AM",
+		"zero": 0
+	},
+	{
+		"return": -5.36,
+		"time": "11:25 PM",
+		"zero": 0
+	},
+	{
+		"return": 3.80,
+		"time": "10:50 AM",
+		"zero": 0
+	},
+	{
+		"return": -0.16,
+		"time": "3:40 PM",
+		"zero": 0
+	}
+]
